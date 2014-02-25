@@ -1,4 +1,4 @@
-Term3Showcase
+Term 3 Showcase
 =============
 
 A repository for photos from photography
